@@ -1,2 +1,2 @@
 # TimeWeightCollaborativeFiltering
-[embed]Time Weight Collaborative Filtering On Amazon Reviews.pdf[/embed]
+Technical project report incorporating various machine learning techniques with an emphasis on collaborative filtering in regard to an Amazon dataset.
